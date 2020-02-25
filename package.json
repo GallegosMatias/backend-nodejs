@@ -1,0 +1,15 @@
+{
+  "name": "api-rest-node",
+  "version": "1.0.0",
+  "description": "Api Rest del Curso de Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/GallegosMatias/backend-nodejs"
+  },
+  "author": "Matias Gallegos",
+  "license": "MIT"
+}
